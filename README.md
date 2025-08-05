@@ -58,6 +58,9 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode_Icon.png" height="40" alt="Xcode" />
+  </a>
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
   </a>
@@ -84,7 +87,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
   </a>
 </p>
 
-
+<!--
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -117,7 +120,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
-
+-->
 
 
 ---
