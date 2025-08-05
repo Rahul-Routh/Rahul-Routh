@@ -3,11 +3,11 @@
 # 👋 Hi, I'm Rahul Routh
 
 ## 🚀 About Me
-I'm a passionate Android Developer with over 5 years of experience in building robust and scalable mobile apps using Kotlin and Java. I love working on meaningful projects and bringing ideas to life.
+I'm a passionate Android Developer with over 5+ years of experience in building robust and scalable mobile apps using Kotlin and Java. I love working on meaningful projects and bringing ideas to life.
 
 - 🔭 I’m currently working on: **Taxception** (Online tax submission) and **Suryam Finder** (Employee services)
 - 🌱 I’m learning: Swift for iOS Development
-- 🧠 Tech stack: `Kotlin`, `Java`, `KMM`, `Firebase`, `Retrofit`, `MVVM`, `Jetpack`
+- 🧠 Tech stack: `Kotlin`, `Java`, `Swift`, `Firebase`, `Retrofit`, `MVVM`, `Jetpack`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-routh-b62354163) | [Email](mailto:its.rahsual@gmail.com)
 
 ## 🛠️ Projects
@@ -16,7 +16,7 @@ I'm a passionate Android Developer with over 5 years of experience in building r
 - **Suryam Project** – Company ERP system for internal services  
 
 ## 🧰 Tools I Use
-- Android Studio | Git | Firebase | Postman | Figma
+- Android Studio | XCode | Git | Firebase | Postman | Figma
 
 ## 📈 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=default)
