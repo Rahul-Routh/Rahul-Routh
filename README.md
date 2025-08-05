@@ -51,77 +51,78 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 
 ## 🛠️ Tech & Tools I Use
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://kotlinlang.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
     </a>
-    <p style="margin: 5px 0 0;">Kotlin</p>
+    <span>Kotlin</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.java.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     </a>
-    <p style="margin: 5px 0 0;">Java</p>
+    <span>Java</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://developer.apple.com/swift/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
     </a>
-    <p style="margin: 5px 0 0;">Swift</p>
+    <span>Swift</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://firebase.google.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
     </a>
-    <p style="margin: 5px 0 0;">Firebase</p>
+    <span>Firebase</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://developer.android.com/studio" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
     </a>
-    <p style="margin: 5px 0 0;">Android Studio</p>
+    <span>Android Studio</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://developer.apple.com/xcode/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode_Icon.png" height="40" alt="Xcode" />
     </a>
-    <p style="margin: 5px 0 0;">Xcode</p>
+    <span>Xcode</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
     </a>
-    <p style="margin: 5px 0 0;">Postman</p>
+    <span>Postman</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     </a>
-    <p style="margin: 5px 0 0;">Git</p>
+    <span>Git</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.atlassian.com/software/jira" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="40" alt="Jira" />
     </a>
-    <p style="margin: 5px 0 0;">Jira</p>
+    <span>Jira</span>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
     </a>
-    <p style="margin: 5px 0 0;">Figma</p>
+    <span>Figma</span>
   </div>
 </div>
+
 
 
 <!--
