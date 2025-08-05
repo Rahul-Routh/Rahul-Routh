@@ -51,77 +51,39 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 
 ## 🛠️ Tech & Tools I Use
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://kotlinlang.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-    </a>
-    <span>Kotlin</span>
-  </div>
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode_Icon.png" height="40" alt="Xcode" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="40" alt="Jira" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  </a>
+</p>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.java.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-    </a>
-    <span>Java</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://developer.apple.com/swift/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-    </a>
-    <span>Swift</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
-    </a>
-    <span>Firebase</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://developer.android.com/studio" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-    </a>
-    <span>Android Studio</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://developer.apple.com/xcode/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode_Icon.png" height="40" alt="Xcode" />
-    </a>
-    <span>Xcode</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.postman.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-    </a>
-    <span>Postman</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    </a>
-    <span>Git</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.atlassian.com/software/jira" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="40" alt="Jira" />
-    </a>
-    <span>Jira</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-    </a>
-    <span>Figma</span>
-  </div>
-</div>
 
 
 
