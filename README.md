@@ -76,7 +76,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
   <a href="https://git-scm.com/" target="blank">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
   </a>
   <a href="https://www.figma.com/" target="blank">
