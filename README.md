@@ -1,28 +1,60 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Rahul Routh
 
 ## 🚀 About Me
-I'm a passionate Android Developer with over 5+ years of experience in building robust and scalable mobile apps using Kotlin and Java. I love working on meaningful projects and bringing ideas to life.
+I'm a passionate Android Developer with over **5+ years** of experience in building robust and scalable mobile apps using **Kotlin** and **Java**. I love working on meaningful projects and bringing ideas to life.
 
-- 🔭 I’m currently working on: **Taxception** (Online tax submission) and **Suryam Finder** (Employee services)
-- 🌱 I’m learning: Swift for iOS Development
-- 🧠 Tech stack: `Kotlin`, `Java`, `Swift`, `Firebase`, `Retrofit`, `MVVM`, `Jetpack`
+- 🔭 I’m currently working on: **Moneymela**, **Suryam Finder**, and **Suryam Project**
+- 🌱 I’m learning: **Swift** for iOS Development
+- 🧠 Tech stack: `Kotlin`, `Java`, `Swift`, `Firebase`, `Retrofit`, `MVVM`, `Jetpack`, `Room`, `Google Maps SDK`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-routh-b62354163) | [Email](mailto:its.rahsual@gmail.com)
 
-## 🛠️ Projects
-- **[Mncil](https://github.com/yourusername/mncil)** – Patient health & consultation app  
-- **[Smart NCIL](https://github.com/yourusername/smartncil)** – Doctor and admission management  
-- **Suryam Project** – Company ERP system for internal services  
+---
+
+## 🛠️ Featured Projects
+
+| Project Name       | Description                                               | Tech     |
+|--------------------|-----------------------------------------------------------|----------|
+| [Mncil](https://github.com/yourusername/mncil)             | Patient consultation & health tracker                         | Kotlin   |
+| [Smart NCIL](https://github.com/yourusername/smartncil)   | Doctor and admission module                                   | Kotlin   |
+| Moneymela           | Patient consultation, health records, payment integration | Kotlin   |
+| Suryam Finder       | Employee tracking & visit reporting system                | Java     |
+| Suryam Project      | Company ERP for internal employee services                | Kotlin   |
+| ReshmiWellness      | Appointment and health management                         | Kotlin   |
+| SNCWStaff           | School staff services and attendance                      | Kotlin   |
+| rksmvvFaculty       | Faculty management system                                 | Kotlin   |
+| CARCARE             | Car service & maintenance                                 | Kotlin   |
+| CARWASHMASTER       | Car wash and order management                             | Kotlin   |
+| LMS                 | Learning Management System                                | Java     |
+| Hamrogaaon          | Village community app                                     | Java     |
+| Taxception          | Online tax filing and submission                          | Java     |
+
+> 🚫 Some projects are private due to enterprise or client confidentiality.
+
+---
 
 ## 🧰 Tools I Use
-- Android Studio | XCode | Git | Firebase | Postman | Figma
+
+`Android Studio` | `Xcode` | `Firebase` | `Postman` | `Git` | `Figma` | `Jira`
+
+---
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=default)
 
-<!-- Optional extra cards -->
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Routh&layout=compact)
+
+---
+
+## 💬 Let's Connect
+
+- 📧 [its.rahsual@gmail.com](mailto:its.rahsual@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-routh-b62354163)  
+- 🧑‍💻 [GitHub](https://github.com/Rahul-Routh)
+
+---
+
+_Thanks for visiting my profile!_
+
 
 
 <!--**Rahul-Routh/Rahul-Routh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
