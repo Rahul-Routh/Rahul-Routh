@@ -70,7 +70,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=compact&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Routh&layout=compact&theme=compact&v=1" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Routh&layout=compact&theme=compact&v=1" width="36%" />
 </p>
 
 ---
