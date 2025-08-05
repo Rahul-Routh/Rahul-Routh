@@ -38,7 +38,10 @@ I'm a passionate Android Developer with over **5+ years** of experience in build
 
 ---
 
+## 📈 GitHub Stats
 
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Routh&layout=compact)
 
 ---
 
