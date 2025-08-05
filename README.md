@@ -25,6 +25,9 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 | 🎯 **[Suryam Finder](https://play.google.com/store/apps/details?id=com.surya.suryamfindertracking&hl=en_IN)** | Employee tracking & visit reporting | Android (Java) |
 | 🏢 **[Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject&hl=en_IN)** | ERP for internal employee services | Android (Kotlin) |
 | 💊 **[Mncil](https://play.google.com/store/apps/details?id=com.ncil.easyncil&hl=en_IN)** | Patient consultation & health tracker | Android (Kotlin) |
+| 🎓 **[rksmvvFaculty](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate&hl=en)** | Faculty management for schools | Android (Kotlin) |
+| 🏘 **[Hamrogaaon](https://play.google.com/store/apps/details?id=com.vjyoti.hamrogaaon&hl=en_US)** | Hotel Booking app | Android (Java) |
+| 💼 **[Taxception](https://play.google.com/store/apps/details?id=com.purpulingo.taxation)** | Online tax filing and submission system | Android (Java) |
 
 [![Get it on Google Play](https://img.shields.io/badge/Play_Store-Download-blue?logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6777812639408626476)
 
@@ -38,12 +41,9 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 | 🧠 **Smart NCIL**     | Doctor and admission management platform                                                             | Kotlin   |
 | 🏥 **ReshmiWellness** | Health & appointment booking system                                                                  | Kotlin   |
 | 👨‍🏫 **SNCWStaff**       | Staff attendance & internal services                                                               | Kotlin   |
-| 🎓 **rksmvvFaculty**   | Faculty management for schools                                                                      | Kotlin   |
 | 🚗 **CARCARE**         | Vehicle service & maintenance management                                                            | Kotlin   |
 | 🧼 **CARWASHMASTER**   | Car wash and order booking system                                                                   | Kotlin   |
 | 📚 **LMS**             | Learning management system for students & teachers                                                  | Java     |
-| 🏘 **Hamrogaaon**      | Village community and services app                                                                  | Java     |
-| 💼 **Taxception**      | Online tax filing and submission system                                                             | Java     |
 
 > 🔒 Some projects are private due to enterprise or client confidentiality.
 
