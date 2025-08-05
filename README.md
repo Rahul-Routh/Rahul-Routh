@@ -52,34 +52,34 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 ## 🛠️ Tech & Tools I Use
 
 <p align="left">
-  <a href="https://kotlinlang.org/" target="_blank">
+  <a href="https://kotlinlang.org/" target="blank">
     <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
   </a>
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="blank">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank">
+  <a href="https://developer.apple.com/swift/" target="blank">
     <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://firebase.google.com/" target="blank">
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
-  <a href="https://developer.android.com/studio" target="_blank">
+  <a href="https://developer.android.com/studio" target="blank">
     <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=black" />
   </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
+  <a href="https://developer.apple.com/xcode/" target="blank">
     <img src="https://img.shields.io/badge/Xcode-%23121011.svg?&style=for-the-badge&logo=xcode&logoColor=blue" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="blank">
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="blank">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com/" target="blank">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
