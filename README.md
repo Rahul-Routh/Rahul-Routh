@@ -68,7 +68,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode_Icon.png" height="40" alt="Xcode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
