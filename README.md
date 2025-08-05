@@ -14,11 +14,11 @@ I'm a passionate Android Developer with over **5+ years** of experience in build
 
 | Project Name       | Description                                               | Tech     |
 |--------------------|-----------------------------------------------------------|----------|
+| Moneymela           | Fintech lending app connecting borrowers and lenders, focused on financial inclusion.  | Kotlin   |
+| [Suryam Finder](https://play.google.com/store/apps/details?id=com.surya.suryamfindertracking&hl=en_IN)       | Employee tracking & visit reporting system                | Java     |
+| [Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject&hl=en_IN)       | Company ERP for internal employee services                | Kotlin   |
 | [Mncil](https://github.com/yourusername/mncil)             | Patient consultation & health tracker                         | Kotlin   |
 | [Smart NCIL](https://github.com/yourusername/smartncil)   | Doctor and admission module                                   | Kotlin   |
-| Moneymela           | Fintech lending app connecting borrowers and lenders, focused on financial inclusion.  | Kotlin   |
-| Suryam Finder       | Employee tracking & visit reporting system                | Java     |
-| Suryam Project      | Company ERP for internal employee services                | Kotlin   |
 | ReshmiWellness      | Appointment and health management                         | Kotlin   |
 | SNCWStaff           | School staff services and attendance                      | Kotlin   |
 | rksmvvFaculty       | Faculty management system                                 | Kotlin   |
@@ -40,7 +40,7 @@ I'm a passionate Android Developer with over **5+ years** of experience in build
 
 ## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=default)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-Routh&show_icons=true&theme=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Routh&layout=compact)
 
 ---
