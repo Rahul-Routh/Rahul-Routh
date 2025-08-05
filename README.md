@@ -16,7 +16,7 @@ I'm a passionate Android Developer with over **5+ years** of experience in build
 |--------------------|-----------------------------------------------------------|----------|
 | [Mncil](https://github.com/yourusername/mncil)             | Patient consultation & health tracker                         | Kotlin   |
 | [Smart NCIL](https://github.com/yourusername/smartncil)   | Doctor and admission module                                   | Kotlin   |
-| Moneymela           | Patient consultation, health records, payment integration | Kotlin   |
+| Moneymela           | Fintech lending app connecting borrowers and lenders, focused on financial inclusion.  | Kotlin   |
 | Suryam Finder       | Employee tracking & visit reporting system                | Java     |
 | Suryam Project      | Company ERP for internal employee services                | Kotlin   |
 | ReshmiWellness      | Appointment and health management                         | Kotlin   |
