@@ -26,6 +26,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 | 🏢 **[Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject&hl=en_IN)** | ERP for internal employee services | Android (Kotlin) |
 | 💊 **[Mncil](https://play.google.com/store/apps/details?id=com.ncil.easyncil&hl=en_IN)** | Patient consultation & health tracker | Android (Kotlin) |
 | 🎓 **[rksmvvFaculty](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate&hl=en)** | Faculty management for schools | Android (Kotlin) |
+| 🎬 **[Web Box](https://play.google.com/store/apps/details?id=webbox.tech.info.movies&hl=en_IN)** | Bengali OTT app (Web Series & Movies) | Android (Java) |
 | 🏘 **[Hamrogaaon](https://play.google.com/store/apps/details?id=com.vjyoti.hamrogaaon&hl=en_US)** | Hotel Booking app | Android (Java) |
 | 💼 **[Taxception](https://play.google.com/store/apps/details?id=com.purpulingo.taxation)** | Online tax filing and submission system | Android (Java) |
 
