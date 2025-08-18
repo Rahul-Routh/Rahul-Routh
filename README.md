@@ -25,7 +25,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 | 🎯 **[Suryam Finder](https://play.google.com/store/apps/details?id=com.surya.suryamfindertracking)** | Employee tracking & visit reporting | Android (Java) |
 | 🏢 **[Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject)** | ERP for internal employee services | Android (Kotlin) |
 | 💊 **[Mncil](https://play.google.com/store/apps/details?id=com.ncil.easyncil)** | Patient consultation & health tracker | Android (Kotlin) |
-| 🎓 **[rksmvvFaculty](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate)** | Faculty management for schools | Android (Kotlin) |
+| 🎓 **[mRKSMVV](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate)** | Faculty management for schools | Android (Kotlin) |
 | 🎓 **[mJMMC](https://play.google.com/store/apps/details?id=com.jmmc.mjmmc)** | Faculty management for schools | Android (Kotlin) |
 | 🎓 **[mGMVM](https://play.google.com/store/apps/details?id=com.gmvm.mgmvm)** | Faculty management for schools | Android (Kotlin) |
 | 🎬 **[Web Box](https://play.google.com/store/apps/details?id=webbox.tech.info.movies)** | Bengali OTT app (Web Series & Movies) | Android (Java) |
