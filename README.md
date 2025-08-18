@@ -22,12 +22,14 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 
 | App Name | Description | Platform |
 |---------|-------------|----------|
-| 🎯 **[Suryam Finder](https://play.google.com/store/apps/details?id=com.surya.suryamfindertracking&hl=en_IN)** | Employee tracking & visit reporting | Android (Java) |
-| 🏢 **[Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject&hl=en_IN)** | ERP for internal employee services | Android (Kotlin) |
-| 💊 **[Mncil](https://play.google.com/store/apps/details?id=com.ncil.easyncil&hl=en_IN)** | Patient consultation & health tracker | Android (Kotlin) |
-| 🎓 **[rksmvvFaculty](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate&hl=en)** | Faculty management for schools | Android (Kotlin) |
-| 🎬 **[Web Box](https://play.google.com/store/apps/details?id=webbox.tech.info.movies&hl=en_IN)** | Bengali OTT app (Web Series & Movies) | Android (Java) |
-| 🏘 **[Hamrogaaon](https://play.google.com/store/apps/details?id=com.vjyoti.hamrogaaon&hl=en_US)** | Hotel Booking app | Android (Java) |
+| 🎯 **[Suryam Finder](https://play.google.com/store/apps/details?id=com.surya.suryamfindertracking)** | Employee tracking & visit reporting | Android (Java) |
+| 🏢 **[Suryam Project](https://play.google.com/store/apps/details?id=com.surya.suryamfinderproject)** | ERP for internal employee services | Android (Kotlin) |
+| 💊 **[Mncil](https://play.google.com/store/apps/details?id=com.ncil.easyncil)** | Patient consultation & health tracker | Android (Kotlin) |
+| 🎓 **[rksmvvFaculty](https://play.google.com/store/apps/details?id=com.rksmvv.campusmate)** | Faculty management for schools | Android (Kotlin) |
+| 🎓 **[mJMMC](https://play.google.com/store/apps/details?id=com.jmmc.mjmmc)** | Faculty management for schools | Android (Kotlin) |
+| 🎓 **[mGMVM](https://play.google.com/store/apps/details?id=com.gmvm.mgmvm)** | Faculty management for schools | Android (Kotlin) |
+| 🎬 **[Web Box](https://play.google.com/store/apps/details?id=webbox.tech.info.movies)** | Bengali OTT app (Web Series & Movies) | Android (Java) |
+| 🏘 **[Hamrogaaon](https://play.google.com/store/apps/details?id=com.vjyoti.hamrogaaon)** | Hotel Booking app | Android (Java) |
 | 💼 **[Taxception](https://play.google.com/store/apps/details?id=com.purpulingo.taxation)** | Online tax filing and submission system | Android (Java) |
 
 [![Get it on Google Play](https://img.shields.io/badge/Play_Store-Download-blue?logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6777812639408626476)
