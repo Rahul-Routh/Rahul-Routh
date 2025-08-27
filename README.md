@@ -120,7 +120,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   </a>
 </p>
-
+-->
 
 
 
@@ -157,7 +157,7 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
--->
+
 
 
 ---
