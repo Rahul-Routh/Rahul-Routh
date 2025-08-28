@@ -40,13 +40,14 @@ I'm a passionate **Android Developer** with over **5 years** of experience in bu
 
 | Project Name        | Description                                                                                           | Tech     |
 |---------------------|-------------------------------------------------------------------------------------------------------|----------|
-| 💸 **Moneymela**      | Fintech lending app connecting borrowers & lenders; loan processing, KYC, Firebase, Play Store-ready | Kotlin   |
-| 🧠 **Smart NCIL**     | Doctor and admission management platform                                                             | Kotlin   |
-| 🏥 **ReshmiWellness** | Health & appointment booking system                                                                  | Kotlin   |
-| 👨‍🏫 **SNCWStaff**       | Staff attendance & internal services                                                               | Kotlin   |
-| 🚗 **CARCARE**         | Vehicle service & maintenance management                                                            | Kotlin   |
-| 🧼 **CARWASHMASTER**   | Car wash and order booking system                                                                   | Kotlin   |
-| 📚 **LMS**             | Learning management system for students & teachers                                                  | Java     |
+| 💸 **Moneymela**      | Fintech lending app connecting borrowers & lenders; loan processing, KYC, Firebase, Play Store-ready | Android(Kotlin)   |
+| 🧠 **Smart NCIL**     | Doctor and admission management platform                                                             | IOS(Swift)    |
+| 🧠 **Smart NCIL**     | Doctor and admission management platform                                                             | Android(Kotlin)   |
+| 🏥 **ReshmiWellness** | Health & appointment booking system                                                                  | Android(Kotlin)   |
+| 👨‍🏫 **SNCWStaff**       | Staff attendance & internal services                                                               | Android(Kotlin)   |
+| 🚗 **CARCARE**         | Vehicle service & maintenance management                                                            | Android(Kotlin)   |
+| 🧼 **CARWASHMASTER**   | Car wash and order booking system                                                                   | Android(Kotlin)   |
+| 📚 **LMS**             | Learning management system for students & teachers                                                  | Android(Java)     |
 
 > 🔒 Some projects are private due to enterprise or client confidentiality.
 
