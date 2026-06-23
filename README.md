@@ -107,6 +107,7 @@ I'm a passionate **Sr Mobile Application Developer** with over **6 years** of ex
   <a href="mailto:its.rahsual@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rahul-routh-b62354163/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Rahul-Routh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://rahulrouth.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Frahulrouth.vercel.app&style=for-the-badge&logo=googlechrome&logoColor=white&color=22C55E"/></a>
 </p>
 
 ---
