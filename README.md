@@ -59,6 +59,13 @@ I'm a passionate **Sr Mobile Application Developer** with over **6 years** of ex
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
   </a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  </a>
+
+  <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   </a>
