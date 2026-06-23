@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I'm Rahul Routh</h1>
 
 <p align="center">
-  <b>Android & Cross-platform Mobile Developer | 5+ Years of Experience</b> <br>
-  Kotlin • Java • Swift • Firebase • Flutter
+  <b>Android & Cross-platform Mobile Developer | 6+ Years of Experience</b> <br>
+  Kotlin • Java • Swift • Firebase • KMP • Jetpack Compose
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** with over **5 years** of experience in building clean, scalable, and high-performance mobile applications. I enjoy working on meaningful projects that make a real-world impact.
+I'm a passionate **Sr Mobile Application Developer** with over **6 years** of experience in building clean, scalable, and high-performance mobile applications. I enjoy working on meaningful projects that make a real-world impact.
 
-- 🔭 Currently working on: **Moneymela**, **Suryam Finder**, and **Suryam Project**
-- 🌱 Learning: `Swift` for iOS Development
-- 🧠 Tech stack: `Kotlin`, `Java`, `Swift`, `Firebase`, `Retrofit`, `MVVM`, `Room`, `Jetpack`, `Google Maps SDK`
-- 📫 Reach me: [📧 Email](mailto:its.rahsual@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/rahul-routh-b62354163)
+- 🔭 Currently working on: **Surya CRM**, **Moneymela**, **Suryam Finder**, and **Suryam Project**
+- 🌱 Learning: `Swift` and `KMP` for Native Application Development
+- 🧠 Tech stack: `Kotlin`, `Java`, `Swift`, `Firebase`, `Retrofit`, `MVVM`, `Room`, `Jetpack Compose`, `Google Maps SDK`
+- 📫 Reach me: [📧 Email](mailto:its.rahsual@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/rahul-routh-b62354163) | [🔗 Portfolio](https://rahulrouth.vercel.app/)
 
 ---
 
